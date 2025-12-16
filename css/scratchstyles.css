@@ -1,0 +1,38 @@
+body{
+    background-color: lightskyblue;
+}
+li{
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+.colorful{
+    color: crimson;
+}
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+.listHeader{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linksTop{
+    top: 2px;
+    height: 50px;
+    text-align: center;
+}
+.books{
+    top: 54px;
+    width: 800px;
+}
+.bookImage{
+    top: 54px;
+    right: 5px;
+    width: 875px;
+}
+.tableau{
+    top: 960px;
+}
+.bigger{
+    font-size: 20px;
+}
