@@ -9,7 +9,6 @@ li{
     color: crimson;
 }
 .common{
-    border: 2px solid white;
     position: absolute;
 }
 .listHeader{
@@ -36,3 +35,4 @@ li{
 .bigger{
     font-size: 20px;
 }
+
